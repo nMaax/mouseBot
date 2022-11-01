@@ -12,7 +12,7 @@ import time
 refresh_rate = 0
 
 while (refresh_rate < 1 or refresh_rate > 30):
-    refresh_rate = int(input("At what refresh rate (seconds) should the pointer update?\nMin value of 1, Max value of 30\n>"))
+    refresh_rate = int(input("At what refresh rate (in seconds) should the pointer update?\nMin value of 1, Max value of 30\n>"))
 
 
 
