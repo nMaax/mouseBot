@@ -1,4 +1,4 @@
-# Amphetamine - Mouse bot
+# Amphetamine: mouse bot
 
 This python script is going to make your mouse move automatically around a little box in the screen
 
@@ -8,7 +8,7 @@ You can always kill the script with these 3 alternatives:
   2. Do Ctrl+Tab to find the console window and then Ctrl+C to close the script
   3. Spam Alt+F4
 
-## DEPENDENCIES
+## Dependencies
 
 You will need the pyautogui library and the latest python version installed on you machine, in order to do that
 
