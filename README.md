@@ -9,7 +9,7 @@ There are 3 version of the program:
 2. Amphetamine 2
 3. NightOWL
 
-They all do the same job with small differences, if in doubt I suggest you to use Amphetamine 2 :rocket:
+They all do the same job with small differences, if in doubt I suggest you to use Amphetamine 1 :rocket:
 
 ## How to install
 
@@ -25,7 +25,7 @@ You will need the pyautogui library and the latest python version installed on y
 3. Clone this repo or the specific program you need wherever you want
 4. In the terminal, move to the folder where you downloaded this repo
 5. Run the program with the command
-    ```python Amphetamine2.py``` (or the program you prefer)
+    ```python Amphetamine.py``` (or the program you prefer)
 
 > ***Note***
    > Eventually sobstitute the _python_ keyword with the path where is python.exe installed, 
