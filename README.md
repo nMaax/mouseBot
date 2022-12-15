@@ -4,12 +4,11 @@ This python script is going to make your mouse move automatically around a littl
 
 This script is mainly invented for Windows/Linus machines since Mac already has an app called [Amphetamine](https://apps.apple.com/gb/app/amphetamine) who do this work greatly. In any case anyone can use this script :smiley:
 
-There are 3 version of the program:
+There are 2 version of the program:
 1. Amphetamine
-2. Amphetamine 2
-3. NightOWL
+2. NightOWL
 
-They all do the same job with small differences, if in doubt I suggest you to use Amphetamine 1 :rocket:
+They all do the same job with small differences, if in doubt I suggest you to use Amphetamine :rocket:
 
 ## How to install
 
