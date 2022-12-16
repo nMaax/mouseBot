@@ -1,6 +1,6 @@
 # Amphetamine - mouse bot
 
-This python script is going to make your mouse move automatically around a little box in the screen, the purpose of this is to make your pc always awake and make you look not AFK for other programs/websites who tries to control that
+This python script is going to make your mouse move automatically around a little box in the screen, the purpose of this is to make your pc always awake and make you look not AFK to other programs/websites who tries to control that
 
 This script is mainly invented for Windows/Linus machines since Mac already has an app called [Amphetamine](https://apps.apple.com/gb/app/amphetamine) who do this work greatly. In any case anyone can use this script :smiley:
 
